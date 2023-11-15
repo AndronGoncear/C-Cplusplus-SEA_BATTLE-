@@ -1,0 +1,29 @@
+﻿  Function.cpp
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1818,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1820,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1816,29): warning C4101: keys: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1819,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1817,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1816,23): warning C4101: size: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4762,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4760,19): warning C4101: a: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4760,22): warning C4101: b: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4764,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4760,31): warning C4101: keys: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4763,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4761,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(4760,25): warning C4101: size: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(7664,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(7666,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(7662,31): warning C4101: keys: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(7665,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(7663,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(7662,25): warning C4101: size: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(10671,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(10673,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(10669,31): warning C4101: keys: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(10672,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(10670,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(10669,25): warning C4101: size: неиспользованная локальная переменная
+C:\Users\User\source\repos\Exam TASK_2\Examen\Examen\Function.cpp(1808): warning C4715: check_spacing_of_ships: значение возвращается не при всех путях выполнения
+  Examen.vcxproj -> C:\Users\User\source\repos\Exam TASK_2\Examen\x64\Debug\Examen.exe

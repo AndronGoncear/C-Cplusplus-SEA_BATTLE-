@@ -1,0 +1,32 @@
+﻿  Function.cpp
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1974,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1976,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1972,29): warning C4101: keys: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1975,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1973,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1972,23): warning C4101: size: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4933,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4931,19): warning C4101: a: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4931,22): warning C4101: b: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4935,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4931,31): warning C4101: keys: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4934,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4932,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(4931,25): warning C4101: size: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(7851,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(7853,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(7849,31): warning C4101: keys: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(7852,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(7850,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(7849,25): warning C4101: size: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(10870,6): warning C4101: count2: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(10872,6): warning C4101: count4: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(10868,31): warning C4101: keys: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(10871,6): warning C4101: count3: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(10869,6): warning C4101: count1: неиспользованная локальная переменная
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(10868,25): warning C4101: size: неиспользованная локальная переменная
+  Source.cpp
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Source.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Lessons C++\examen\Exam TASK_2\Examen\Examen\Function.cpp(1966): warning C4715: check_spacing_of_ships: значение возвращается не при всех путях выполнения
+  Examen.vcxproj -> C:\Lessons C++\examen\Exam TASK_2\Examen\Debug\Examen.exe
